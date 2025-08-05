@@ -16,6 +16,8 @@ body{
     height: 80px;
     display: flex;
     justify-content: flex-end;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
 }
 
 .Nav-list {
@@ -30,4 +32,22 @@ body{
     margin-right: 10px;
     font-size: 12px;
     text-decoration: none;
+}
+
+.about_main{
+    text-align: center;
+}
+
+.about_main h2{
+    margin-top: 22px;
+}
+
+.about_main p{
+    margin-top: 15px;
+    text-align: justify;
+    text-indent: 5px;
+    margin-right: 4px;
+    margin-left: 4px;
+    font-size: 15px;
+    
 }
