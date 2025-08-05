@@ -1,16 +1,18 @@
-*{
+* {
     margin: 0;
     padding: 0;
     outline: 0;
     box-sizing: border-box;
 }
 
-body{
-   font-family: "Mozilla Headline",
-    sans-serif;;
+body {
+    font-family: "Mozilla Headline",
+        sans-serif;
+    ;
 }
- /* Inicio Nav*/
-.Nav{
+
+/* Inicio Nav*/
+.Nav {
     width: 100%;
     background-color: rgba(140, 72, 204, 0.837);
     height: 80px;
@@ -26,28 +28,10 @@ body{
     list-style: none;
 }
 
-.Nav-list a{
+.Nav-list a {
     color: rgba(250, 235, 215, 0.914);
     padding: 5px;
     margin-right: 10px;
     font-size: 12px;
     text-decoration: none;
-}
-/* Fim Nav*/
-.about_main{
-    text-align: center;
-}
-
-.about_main h2{
-    margin-top: 22px;
-}
-
-.about_main p{
-    margin-top: 15px;
-    text-align: justify;
-    text-indent: 5px;
-    margin-right: 4px;
-    margin-left: 4px;
-    font-size: 14px;
-    
 }
