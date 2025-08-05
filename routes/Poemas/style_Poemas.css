@@ -35,3 +35,46 @@ body {
     font-size: 12px;
     text-decoration: none;
 }
+
+/* Fim do Nav*/
+
+/* Inicio do Main*/
+.About_main{
+    margin-top: 10px;
+}
+
+.About_main h2{
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.Poema_amizade{
+    box-shadow: 0px 1px 3px 2px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.Poema_amizade h3{
+    text-align: center;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    color: darkblue;
+}
+
+.Poema_amizade p{
+    text-align: justify;
+    padding-bottom: 5px;
+    margin-right: 5px;
+    padding-left: 5px;
+    line-height: 20px;
+}
+
+.P_amizade p{
+    display: block;
+    margin-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    color: darkblue;
+}
