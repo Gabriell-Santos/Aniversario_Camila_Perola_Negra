@@ -48,6 +48,10 @@ body {
     margin-bottom: 25px;
 }
 
+/* Fim do Main*/
+
+
+/* Inicio Poema Amizade*/
 .Poema_amizade{
     box-shadow: 0px 1px 3px 2px;
     border-top-left-radius: 8px;
@@ -77,4 +81,43 @@ body {
     padding-bottom: 10px;
     text-align: center;
     color: darkblue;
+}
+
+/* Fim Poema Amizade*/
+
+
+
+/* Inicio Poema Amor*/
+
+.Poema_Amor{
+        box-shadow: 0px 1px 3px 2px;
+        border-top-left-radius: 8px;
+        border-top-right-radius: 8px;
+        margin-left: 5px;
+        margin-right: 5px;
+        margin-top: 50px;
+}
+
+.Poema_Amor h3{
+        text-align: center;
+        padding-top: 8px;
+        padding-bottom: 8px;
+        color: rgb(222, 22, 22);
+}
+
+
+.Poema_Amor p{
+        text-align: justify;
+        padding-bottom: 8px;
+        margin-right: 5px;
+        padding-left: 5px;
+        line-height: 20px;
+}
+
+.P_amor p{
+        display: block;
+        margin-top: 10px;
+        padding-bottom: 10px;
+        text-align: center;
+        color: rgb(222, 22, 22);
 }
