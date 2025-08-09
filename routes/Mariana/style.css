@@ -35,5 +35,31 @@ body{
     font-size: 12px;
     text-decoration: none;
 }
-
 /* Fim do Nav*/
+
+/* Inicio do Main*/
+
+.About_mom{
+    margin-top: 40px;
+}
+
+.About_mom h3{
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.About_mom p{
+        text-align: justify;
+        margin-right: 7px;
+        text-align: 5px;
+        margin-left: 5px;
+        padding-bottom: 10px;
+        text-indent: 10px;
+}
+
+.About_mom img {
+    display: block;
+    width: 200px;
+    height: 150px;
+    margin: auto;
+}
