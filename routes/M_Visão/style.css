@@ -1,0 +1,38 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    outline: none;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Mozilla Headline",
+        sans-serif;
+    ;
+}
+
+/* Inicio Nav*/
+.Nav {
+    width: 100%;
+    background-color: rgba(140, 72, 204, 0.837);
+    height: 80px;
+    display: flex;
+    justify-content: flex-end;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.Nav-list {
+    display: flex;
+    align-items: center;
+    list-style: none;
+}
+
+.Nav-list a {
+    color: rgba(250, 235, 215, 0.914);
+    padding: 5px;
+    margin-right: 10px;
+    font-size: 12px;
+    text-decoration: none;
+}
+/* Fim do Nav*/
