@@ -62,3 +62,13 @@ body {
     margin-left: 10px;
     margin-right: 10px;
 }
+
+.about_text strong{
+    color: rgba(140, 72, 204, 0.837);
+}
+
+img{
+    display: block;
+    margin: auto;
+    height: 190px;
+}
