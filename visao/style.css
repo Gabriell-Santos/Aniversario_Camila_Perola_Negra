@@ -61,6 +61,7 @@ body {
     text-align: justify;
     margin-left: 10px;
     margin-right: 10px;
+    margin-bottom: 20px;
 }
 
 .about_text strong{
@@ -71,4 +72,7 @@ img{
     display: block;
     margin: auto;
     height: 190px;
+    border-radius: 5px;
+    width: 200px;
+    padding-bottom: 10px;
 }
